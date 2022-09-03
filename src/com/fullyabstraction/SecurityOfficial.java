@@ -11,6 +11,8 @@ public  class SecurityOfficial implements SecurityApp{
 	@Override
 	public void securityPassword(String password) {
 	System.out.println("security password is:"+password);
+	System.out.println("security password is:"+password);
+
 	
 		
 	}
